@@ -66,8 +66,7 @@ code-logic-visualizer/
 
 Clone the repository:
 
-git clone https://github.com/lithika-1234/code-logic-visualizer.git
-
+git clone https://github.com/Nivetha-18-05/Code-visualizer
 Open folder:
 
 cd code-logic-visualizer
@@ -88,6 +87,6 @@ http://localhost:3000
 
 ## Author
 
-Lithika Jayaprakash
+Nivetha Sugadev
 
 
